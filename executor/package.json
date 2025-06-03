@@ -1,0 +1,16 @@
+{
+  "name": "executor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@muffinfi/muffin-sdk": "^1.0.8",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5"
+  }
+}
