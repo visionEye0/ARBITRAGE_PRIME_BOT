@@ -44,7 +44,7 @@ Responsible for executing the arbitrage trades found by the `searcher`. Uses `et
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/ARBITRAGE_PRIME_BOT.git
+git clone https://github.com/visionEye0/ARBITRAGE_PRIME_BOT.git
 cd ARBITRAGE_PRIME_BOT
 npm install
 ```
